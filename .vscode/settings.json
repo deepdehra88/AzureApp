@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/6a277f2b-2048-4dce-9be8-e83096fbcc44/resourceGroups/FIRST_RGroup/providers/Microsoft.Web/sites/MyFIRSTAPP1",
+    "appService.deploySubpath": "bin\\publish"
+}

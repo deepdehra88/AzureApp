@@ -1,0 +1,7 @@
+E:\TestFolder\bin\publish\TestFolder.exe
+E:\TestFolder\bin\publish\appsettings.Development.json
+E:\TestFolder\bin\publish\appsettings.json
+E:\TestFolder\bin\publish\TestFolder.dll
+E:\TestFolder\bin\publish\TestFolder.deps.json
+E:\TestFolder\bin\publish\TestFolder.runtimeconfig.json
+E:\TestFolder\bin\publish\TestFolder.pdb
